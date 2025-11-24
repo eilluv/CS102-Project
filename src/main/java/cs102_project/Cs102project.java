@@ -53,7 +53,7 @@ public class Cs102project {
         System.out.println("2. Register Attendee to Event");
         System.out.println("3. Find and Display Event by ID");
         System.out.println("4. List Events with Available Capacity (Filter)");
-        System.out.println("5. Remove Attendee from Event ⭐");
+        System.out.println("5. Remove Attendee from Event ");
         System.out.println("6. Exit"); 
         System.out.print("Enter choice: ");
     }
