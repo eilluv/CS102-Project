@@ -19,7 +19,7 @@ public class Cs102project {
     public static void main(String[] args) {
         System.out.println("Event Management System Initialized ");
 
-        WorkshopEvent ws1 = new WorkshopEvent("WS001", "CyberSecurity Event", 15, "Cloud & Data Security ", "Dr. Mohammed");
+        WorkshopEvent ws1 = new WorkshopEvent("WS001", "CyberSecurity Event", 10, "Cloud & Data Security ", "Dr. Mohammed");
         ws1.registerAttendee("Ibrahim");
         ws1.registerAttendee("Abdullah");
         ws1.registerAttendee("Bader");
